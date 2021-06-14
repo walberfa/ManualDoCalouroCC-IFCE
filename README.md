@@ -28,6 +28,15 @@ Apesar disso tudo que eu falei, aqui vão as dicas mais importantes:
 - Não ultrapasse seus próprios limites (principalmente no contexto remoto);
 - Socialize! Ajude o coleguinha, interaja com  a turma e com os veteranos. Ninguém cresce sozinho.
 
+<h2> Regulamento de Organização Didática </h2>
+
+O Regulamento de Organização Didática é o documento oficial do IFCE que dita normas e regras padronizadas de tudo que diz respeito aos discentes e docentes da instituição.
+Qualquer dúvida sobre burocracias, prazos, como proceder em determinada situação, pode ser conferida por lá.
+
+Na dúvida leiam o ROD:
+
+https://ifce.edu.br/espaco-estudante/regulamento-de-ordem-didatica/2016-07-08-rod-revisao-aprovada-consup-13jun2016-v30.pdf
+
 
 
 <h2> Links úteis </h2>
