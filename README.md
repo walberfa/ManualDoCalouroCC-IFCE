@@ -1,15 +1,19 @@
 # ManualDoCalouroCC-IFCE
-Manual do calouro para alunos ingressos no curso de Ciência da Computação do IFCE Campus Maracanaú
+Manual do calouro para alunos ingressos no curso de Ciência da Computação do IFCE Campus Maracanaú :mortar_board: :computer:
 
 <h2> Boas vindas </h2>
 
 Olá a todos e todas, eu sou o Walber Florêncio, presidente do Centro Acadêmico de Ciência da Computação (CACC) na gestão 2019-2021. Esse repositório vai ser uma forma de ajudar nossos novatos com alguns pontos relacionados ao curso e ao IFCE, e pra já irem se habituando ao github, caso precisem (e vão precisar!).
 
-Antes de tudo, sejam bem vindos ao curso! Vocês fizeram uma ótima escolha, nosso curso é muito bom. Com a dedicação certa, você vai sair do curso um excelente cientista!
+Antes de tudo, sejam bem vindos ao curso e ao campus Maracanaú! Vocês fizeram uma ótima escolha, nosso curso é muito bom. Com a dedicação certa, você vai sair do curso um excelente cientista!
+
+<img src="https://user-images.githubusercontent.com/59696629/156677627-49141548-22bb-4b00-b356-589d1e67da7e.png" width="500">
+
+:pushpin: Av. Contorno Norte 10, Maracanaú, CE
 
 <h2> Qual o foco do curso? </h2>
 
-Por ser uma ciência, nosso curso possui um foco muito grande no aspecto teórico, então existem muitas disciplinas onde se estuda a fundo matemática, lógica e conceitos e teorias da computação. O objetivo é que a gente aprenda a base teórica necessária para lidar com as diversas questões relacionadas a tomada de decisões e no projeto de sistemas. O curso permite conhecer as ferramentas que vão te direcionar, mas para virar expert em alguma linguagem de programação é preciso ser um pouco autodidata.
+Por ser uma ciência, nosso curso possui um foco muito grande no aspecto teórico, então existem muitas disciplinas onde se estuda a fundo matemática, lógica e conceitos e teorias da computação. O objetivo é que a gente aprenda a base teórica necessária para lidar com as diversas questões relacionadas a tomada de decisões e no projeto de sistemas. O curso permite conhecer as ferramentas que vão te direcionar, mas para virar expert em alguma linguagem de programação é preciso ser autodidata.
 
 <h2> No que devo dar mais atenção no primeiro semestre? </h2>
 
@@ -19,13 +23,14 @@ Além disso, dê muita atenção às aulas de matemática discreta e de cálculo
 
 Na cadeira de Circuitos Digitais foque em aprender bem sobre as operações lógicas, entenda direito os sistemas de numeração (principalmente o binário!). Tem gente que vai gostar muito, querer aprender mais sobre a estrutura interna dos sistemas de computação, como tudo se conecta, e nessa cadeira se tem uma breve noção disso tudo. Apesar de ser um pouco complicada, essa cadeira é muito interessante, sério mesmo!
 
-Apesar disso tudo que eu falei, aqui vão as dicas mais importantes:
+Apesar disso tudo que eu falei, aqui vão as dicas mais importantes :white_check_mark: :
 
 - Aprenda a organizar seus horários de estudos;
 - Não deixe acumular matéria;
 - Faça os exercícios, revise o assunto, leia sobre;
 - Vejo vídeos e tutoriais no youtube;
-- Não ultrapasse seus próprios limites (principalmente no contexto remoto);
+- Aprenda Git e GitHub (versionamento de código);
+- Não ultrapasse seus próprios limites;
 - Socialize! Ajude o coleguinha, interaja com  a turma e com os veteranos. Ninguém cresce sozinho.
 
 <h2> Regulamento de Organização Didática </h2>
@@ -35,7 +40,7 @@ Qualquer dúvida sobre burocracias, prazos, como proceder em determinada situaç
 
 Na dúvida leiam o ROD:
 
-https://ifce.edu.br/espaco-estudante/regulamento-de-ordem-didatica/2016-07-08-rod-revisao-aprovada-consup-13jun2016-v30.pdf
+https://ifce.edu.br/espaco-estudante/regulamento-de-ordem-didatica
 
 
 
