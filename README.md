@@ -66,3 +66,7 @@ Qualquer dúvida sobre burocracias, prazos, como proceder em determinada situaç
 [Biblioteca virtual](https://bvu.ifce.edu.br)
 
 [IFCE Calendários](https://ifce.edu.br/calendarios)
+
+<h2> Quer contribuir? </h2>
+
+Contribuições são bem vindas. Manda uma PR aí 🚀
