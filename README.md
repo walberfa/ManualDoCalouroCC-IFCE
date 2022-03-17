@@ -35,6 +35,11 @@ Na cadeira de Circuitos Digitais foque em aprender bem sobre as operações lóg
 
 <img src="https://user-images.githubusercontent.com/59696629/157259282-1a42eb03-8cdb-48f0-874d-02776531581f.png" width="250">
 
+<h2> Grade curricular </h2>
+
+A imagem a seguir é o fluxograma com a grade curricular do curso. Custa nada se planejar pros próximos semestres. Guarda ela no coração :heart:
+
+<img src="https://user-images.githubusercontent.com/59696629/158908575-df956ea2-32cd-41df-8fcf-69bb6c6001ac.png" width="500">
 
 <h2> Regulamento de Organização Didática </h2>
 
